@@ -10,7 +10,7 @@
   </head>
   <body>
     <div class='container pt-5'>
-      <h1 class='text-center text-primary'>Create Printable PDF invoice using PHP MySQL</h1><hr>
+      <h1 class='text-center text-primary'> invoice using php </h1><hr>
      
       <form method='post' action='index.php' autocomplete='off'>
         <div class='row'>
